@@ -161,9 +161,6 @@ This project demonstrates how business intelligence solutions can:
 
 ---
 
-## Author
-
-### Nikhil Kumar Reddy
 
 Aspiring Data Analyst | Power BI Developer
 
