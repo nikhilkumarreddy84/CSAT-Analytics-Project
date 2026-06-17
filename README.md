@@ -33,9 +33,8 @@ The dashboard enables users to:
 ### Dashboard Preview
 Add dashboard screenshots here for visualization.
 
-![Dashboard Screenshot](Screenshot%201.png)
-
-![Dashboard Screenshot](Screenshot%202.png)
+![Dashboard 1](images/Screenshot%202026-05-20%20102951.png)
+![Dashboard 2](images/Screenshot%202026-05-20%20103814.png)
 
 ## How to Use
 
