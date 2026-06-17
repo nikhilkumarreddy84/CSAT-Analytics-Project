@@ -171,5 +171,3 @@ GitHub: https://github.com/nikhilkumarreddy84
 ## Conclusion
 
 The CSAT Analytics Project showcases the power of data analytics and visualization in transforming customer feedback into actionable business insights. Through interactive dashboards and meaningful KPIs, organizations can better understand customer needs, improve satisfaction levels, and drive continuous improvement.
-
-⭐ If you found this project useful, consider giving the repository a star.
